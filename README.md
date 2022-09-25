@@ -6,4 +6,5 @@ a reinforcement learning algorithm to learn to solve the bot,
 and robotics to directly augment a real cube.
 
 This is a project undertaken by members of Cornell Data Science:
+
 Tobi Alade, Edward Gu, Eric Zhang, Skylar Shapiro, Vincent Fong, Kevin Jiang, Samuel Meisner 
